@@ -1,0 +1,12 @@
+header,nav{
+    z-index: 100001 !important;
+
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh; /* Adjust if necessary */
+  }
+  
+  
